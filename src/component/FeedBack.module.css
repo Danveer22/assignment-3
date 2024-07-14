@@ -1,0 +1,38 @@
+.feedback {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30rem;
+  padding: 3.5rem 2.5rem;
+  background-color: rgb(32, 37, 44);
+  border-radius: 1.5rem;
+}
+
+.feedback img {
+  margin-bottom: 2rem;
+  height: 8rem;
+}
+
+.feedback h2 {
+  font-size: 2rem;
+  color: var(--color-white);
+  margin-bottom: 0.8rem;
+}
+
+.result {
+  background-color: var(--dark-blue);
+  display: inline-block;
+  font-size: 1.2rem;
+  color: var(--primary-color);
+  padding: 0.6rem 1.2rem;
+  border-radius: 3rem;
+  margin-bottom: 2.5rem;
+}
+
+.thanksText {
+  font-size: 1rem;
+  color: var(--light-grey);
+  line-height: 1.6;
+}

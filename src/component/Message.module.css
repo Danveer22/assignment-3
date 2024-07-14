@@ -1,0 +1,13 @@
+.headLine {
+  font-size: 2.8rem;
+  color: var(--color-white);
+  margin-bottom: 0.8rem;
+  font-weight: 500;
+}
+
+.text {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  color: var(--light-grey);
+  margin-bottom: 2rem;
+}
